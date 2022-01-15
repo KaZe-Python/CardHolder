@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.marquesstech.walletapp"
+    },
+    "android": {
+      "package": "com.marquesstech.walletapp"
+    }
   },
   "name": "WalletApp"
 }
